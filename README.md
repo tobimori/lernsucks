@@ -1,2 +1,2 @@
-# lernsucks
-Userscript to replace every lernsax with lernsucks.
+> Requires Tampermonkey or Greasemonkey
+# [Install](https://github.com/tobimori/lernsucks/raw/master/lernsucks.user.js)
